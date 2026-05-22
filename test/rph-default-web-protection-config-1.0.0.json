@@ -1,5 +1,5 @@
 {
-    "EnableProtWebCont": 1,
+    "EnableProtWebCont": 0,
     "DisableRightClick": 1,
     "DisableDrag": 1,
     "DisableTouchHold": 1,
