@@ -1,12 +1,14 @@
 {
-    "EnableProtWebCont": 0,
+    "EnableProtWebCont": 1,
     "DisableRightClick": 1,
-    "DisableDrag": 1,
-    "DisableTouchHold": 1,
-    "DisableUserSelect": 1,
-    "DisbleViewSource": 1,
-    "DisbleSavePrtPage": 1,
-    "DisbleCopyContent": 1,
+    "DisableDrag": 0,
+    "DisableTouchHold": 0,
+    "DisableUserSelect": 0,
+    "DisableDevKeys": 1,
+    "DisableSavePrtPage": 1,
+    "DisableCopyContent": 1,
     "EnableUserSelectPC": 1,
-    "EnableCopyContentFiled": 1
+    "EnableCopyContentFiled": 1,
+    "EnableDevTools": 1,
+    "EnableAdminUnblock": 0
 }
